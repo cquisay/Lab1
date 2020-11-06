@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainTheme" parent="Theme.AppCompat">
+        <!--   Primary Color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <!--    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--    &lt;!&ndash;   theme UI controls like checkboxes and text fields &ndash;&gt;-->
+        <!--    <item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+
+    <style name="splashScreenTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+</resources>
